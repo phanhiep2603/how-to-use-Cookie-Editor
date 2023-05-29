@@ -16,8 +16,8 @@ Truy cập trang [F8](https://fullstack.edu.vn) và nhấn vào cookie editor tr
   Copy cookie được chia sẻ.
 
 ## Step 4.
-  ### 1. Delete hết cookie.
-  ### 2. Thêm cookie vào
+  ###   4.1. Delete hết cookie.
+  ###   4.2. Thêm cookie vào
 ![Delete and import cookie](/step-1.png)
   
 ## Step 5.
